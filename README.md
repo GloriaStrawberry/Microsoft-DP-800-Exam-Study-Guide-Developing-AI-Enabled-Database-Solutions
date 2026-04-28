@@ -40,4 +40,4 @@ To master the DP-800, follow this structured preparation framework:
 
 1. **Hands-on Fabric Exploration:** Deploy a Lakehouse in Microsoft Fabric and practice using the SQL endpoint to query data using vector-based logic.
 2. **Focus on the DevOps Pillar:** Do not neglect the deployment section. Almost 40% of the exam is dedicated to security and CI/CD. Ensure you can manage database versions using GitHub-native tools.
-3. **Validate via Simulation:** Use professional practice exams to get accustomed to the 2026 question formats. The real exam relies heavily on implementation scenarios rather than simple fact-checking, making simulation an essential final step before your test date.
+3. **Validate via Simulation:** Use professional practice exams from itexamscerts to get accustomed to the 2026 question formats. The real exam relies heavily on implementation scenarios rather than simple fact-checking, making simulation an essential final step before your test date.
